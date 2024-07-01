@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guilhermednunes](https://www.linkedin.com/in/guilhermednunes)
 
-- ⚡ Fun fact **Coffee is the second most traded commodity in the world, after oil☕️**
+- ⚡ Fun fact **coffee is the second most traded commodity in the world, after oil☕️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
