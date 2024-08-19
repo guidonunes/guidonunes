@@ -1,9 +1,8 @@
 <h1 align="center">Hello there. 👾 I'm Guilherme Nunes 🇧🇷</h1>
-<h3 align="center">Crafting Intuitive and Engaging Digital Experiences</h3>
 
-- 🌱 I’m currently learning **Solidity with https://cryptozombies.io/**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Ruby on Rails...**
+- 💬 Ask me about **My Bootcamp experience with Ruby on Rails**
 
 - 📫 How to reach me **guilherme.augd@gmail.com**
 
