@@ -1,6 +1,6 @@
 <h1 align="center">Hello there. 👾 I'm Guilherme Nunes 🇧🇷</h1>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **My Bootcamp experience with Ruby on Rails**
 
