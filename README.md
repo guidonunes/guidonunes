@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=FCFFFDDC&width=540&height=64&lines=Hello+there!++;I'm+Guilherme;A+Full+Stack++Developer" alt="Typing SVG" /></a>
 </h1>
-
+</br>
 <div align="center">
   
    🌱 I’m currently learning **React & Node.js**
@@ -10,7 +10,6 @@
 
    ⚡ Fun fact **Coffee is the second most traded commodity in the world, after oil☕️**
 </div>
-</br>
 </br>
 
 <div align="center"> 
