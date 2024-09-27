@@ -8,10 +8,6 @@
 
    💬 Ask me about **Ruby on Rails, React... or anything**
 
-   📫 How to reach me **guilherme.augd@gmail.com**
-
-   📄 Know about my experiences [https://www.linkedin.com/in/guilhermednunes](https://www.linkedin.com/in/guilhermednunes)
-
    ⚡ Fun fact **Coffee is the second most traded commodity in the world, after oil☕️**
 </div>
 
