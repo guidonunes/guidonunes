@@ -10,7 +10,8 @@
 
    ⚡ Fun fact **Coffee is the second most traded commodity in the world, after oil☕️**
 </div>
-
+</br>
+</br>
 
 <div align="center"> 
   <h3>Contact me:</h3>
