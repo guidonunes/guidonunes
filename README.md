@@ -6,11 +6,11 @@
 </br>
 <div align="left">
   
-   🌱 I’m currently learning **React & Node.js**
+   * 🌱 I’m currently learning **React & Node.js**
 
-   💬 Ask me about **Ruby on Rails, React... or anything**
+   * 💬 Ask me about **Ruby on Rails, React... or anything**
 
-   ⚡ Fun fact **Coffee is the second most traded commodity in the world, after oil☕️**
+   * ⚡ Fun fact **Coffee is the second most traded commodity in the world, after oil☕️**
 </div>
 
 <hr/>
