@@ -6,7 +6,6 @@
 
 <div align="left">
 <h2 align="center">About </h2>
-  <br>
   
    * 🌱 I’m currently learning **React & Node.js**
 
