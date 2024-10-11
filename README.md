@@ -7,7 +7,7 @@
 <div align="left">
 <h2 align="center">About </h2>
   
-   * 🌱 I’m currently learning **React & Node.js**
+   * 🌱 I’m currently learning **ExpressJS**
 
    * 💬 Ask me about **Ruby on Rails, React... or anything**
 
