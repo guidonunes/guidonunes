@@ -5,7 +5,7 @@
 </h1>
 
 <div align="left">
-<h2 align="center">About </h2>
+<h2 align="center">About: </h2>
   
    * 🌱 I’m currently learning **ExpressJS**
 
