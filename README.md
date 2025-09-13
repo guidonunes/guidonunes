@@ -7,9 +7,9 @@
 <div align="left">
 <h2 align="center">About: </h2>
   
-   * 🌱 I’m currently learning **Java**
+   * 🌱 I’m currently learning **System's Development** at FIAP
 
-   * 💬 Ask me about **Ruby on Rails, React... or anything**
+   * 💬 Ask me about **Ruby on Rails, Coding... or anything**
 
    * ⚡ Fun fact **coffee is the second most traded commodity in the world, after oil☕️**
 </div>
