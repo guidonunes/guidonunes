@@ -9,7 +9,7 @@
   
    * 🌱 I’m currently learning **System's Development** at FIAP
 
-   * 💬 Ask me about **Ruby on Rails, Coding... or anything**
+   * 💬 Ask me about **Bitcoin, Coding... or anything**
 
    * ⚡ Fun fact **coffee is the second most traded commodity in the world, after oil☕️**
 </div>
