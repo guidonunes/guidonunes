@@ -7,7 +7,7 @@
 <div align="left">
 <h2 align="center">About: </h2>
   
-   * 🌱 I’m currently learning **System's Development** at FIAP
+   * 🌱 I’m currently learning **System's Analysis & Development** at FIAP
 
    * 💬 Ask me about **Bitcoin, Coding... or anything**
 
