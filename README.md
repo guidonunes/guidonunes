@@ -1,7 +1,7 @@
 
 
 <div align="left">
-<h2 align="center">About:</h2>
+<h2 align="left">About</h2>
 
 ```json
 {
@@ -22,7 +22,7 @@
   ]
 }
 ```
-<h2 align="center">Tech Stack: </h2>
+<h2 align="left">Tech Stack</h2>
 
 ```json
 "tech_stack": {
@@ -42,5 +42,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <hr/>
