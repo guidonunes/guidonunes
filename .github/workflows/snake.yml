@@ -8,10 +8,10 @@ on:
   # Allows you to run it manually from the Actions tab for testing
   workflow_dispatch:
   
-  # Run on every push to the master branch
+  # Run on every push to the main branch
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
