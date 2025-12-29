@@ -22,7 +22,6 @@
   ]
 }
 ```
-<hr/>
 
 <div align="center"> 
   <h2>Contact me: </h2>
@@ -47,8 +46,6 @@
   "tools": ["Git", "Docker"]
 }
 ```
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
