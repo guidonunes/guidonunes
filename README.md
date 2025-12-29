@@ -16,10 +16,10 @@
     "Dev struggles"
   ],
   "tech_stack": {
-    "languages": ["Java","Python","JavaScript"],
-    "frameworks": ["Spring Boot","React","Ruby on Rails"],
-    "databases": ["Oracle","PostgreSQL"],
-    "tools": ["Git","Docker"]
+    "languages": ["Java", "Python", "JavaScript"],
+    "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
+    "databases": ["Oracle", "PostgreSQL"],
+    "tools": ["Git", "Docker"]
   }
 }
 ```
