@@ -7,7 +7,7 @@
     "Dark Mode"
   ],
   "fuel_source": [
-    "Java (Logic & Liquid) ☕",
+    "Excessive Coffee",
     "Organic Yerba Mate"
   ],
   "ping_me_about": [
