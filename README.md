@@ -1,8 +1,4 @@
-![My Banner](https://github.com/guidonunes/profile/blob/master/images/banner.png?raw=true)
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&color=43a5be&width=540&height=64&lines=Hello+there!++;I'm+Guilherme+Nunes;A+Software++Engineer" alt="Typing SVG" /></a>
-</h1>
 
 <div align="left">
 <h2 align="center">About:</h2>
