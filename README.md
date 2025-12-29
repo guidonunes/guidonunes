@@ -41,16 +41,16 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Tech Stack: </h2>
 
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=rails,ruby,javascript,typescript,nodejs,react,redux,nextjs,postgres,mysql,python,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=java,html,css,vscode,github,figma,sass,git,postman,ubuntu"/>
-   <img src="https://skillicons.dev/icons?i=netlify,heroku"/>
-</div>
-
-<br/>
+```json
+"tech_stack": {
+  "languages": ["Java", "Python", "JavaScript"],
+  "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
+  "databases": ["Oracle", "PostgreSQL"],
+  "tools": ["Git", "Docker"]
+}
+```
 
 <hr/>
 
