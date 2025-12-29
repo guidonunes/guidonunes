@@ -15,6 +15,7 @@
     "English Premier League",
     "Dev struggles"
   ],
+  ---
   "tech_stack": {
     "languages": ["Java", "Python", "JavaScript"],
     "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
