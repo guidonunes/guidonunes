@@ -5,7 +5,8 @@
 </h1>
 
 <div align="left">
-<h2 align="center">About: </h2>
+<h2 align="center">About:</h2>
+
 ```json
 {
   "user": "Student @ FIAP",
@@ -20,8 +21,6 @@
     "Dev struggles"
   ]
 }
-</div>
-
 <hr/>
 
 <div align="center"> 
