@@ -7,7 +7,7 @@
     "Dark Mode"
   ],
   "fuel_source": [
-    "Excessive Coffee",
+    "Medium Roast Coffee",
     "Organic Yerba Mate"
   ],
   "ping_me_about": [
