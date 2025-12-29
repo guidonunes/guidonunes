@@ -21,6 +21,7 @@
     "Dev struggles"
   ]
 }
+```
 <hr/>
 
 <div align="center"> 
