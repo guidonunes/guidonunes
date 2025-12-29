@@ -22,7 +22,16 @@
   ]
 }
 ```
+<h2 align="center">Tech Stack: </h2>
 
+```json
+"tech_stack": {
+  "languages": ["Java", "Python", "JavaScript"],
+  "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
+  "databases": ["Oracle", "PostgreSQL"],
+  "tools": ["Git", "Docker"]
+}
+```
 <div align="center"> 
   <h2>Contact me: </h2>
   <br>
@@ -35,24 +44,3 @@
 </div>
 
 <hr/>
-
-<h2 align="center">Tech Stack: </h2>
-
-```json
-"tech_stack": {
-  "languages": ["Java", "Python", "JavaScript"],
-  "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
-  "databases": ["Oracle", "PostgreSQL"],
-  "tools": ["Git", "Docker"]
-}
-```
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width="390" height="200" src="https://streak-stats.demolab.com/?user=guidonunes&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=guidonunes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidonunes&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
