@@ -24,7 +24,6 @@
 }
 ```
 <div align="center"> 
-  <h2>Contact me: </h2>
   <br>
   <a href="mailto:guilherme.augd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
