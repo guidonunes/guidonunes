@@ -1,8 +1,3 @@
-
-
-<div align="left">
-<h2 align="left">About</h2>
-
 ```json
 {
   "user": "Currently studying System's Analysis and Development @ FIAP",
@@ -19,17 +14,13 @@
     "Crypto markets",
     "English Premier League",
     "Dev struggles"
-  ]
-}
-```
-<h2 align="left">Tech Stack</h2>
-
-```json
-"tech_stack": {
-  "languages": ["Java", "Python", "JavaScript"],
-  "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
-  "databases": ["Oracle", "PostgreSQL"],
-  "tools": ["Git", "Docker"]
+  ],
+  "tech_stack": {
+    "languages": ["Java", "Python", "JavaScript"],
+    "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
+    "databases": ["Oracle", "PostgreSQL"],
+    "tools": ["Git", "Docker"]
+  }
 }
 ```
 <div align="center"> 
