@@ -9,15 +9,19 @@
 
 ```json
 {
-  "user": "Student @ FIAP",
+  "user": "Currently studying System's Analysis and Development @ FIAP",
   "interests": [
-    "Bitcoin",
+    "FinTech",
     "Code",
     "Dark Mode"
   ],
-  "fuel_source": "☕ Excessive Coffee",
+  "fuel_source": [
+    "Java (Logic & Liquid) ☕",
+    "Organic Yerba Mate"
+  ],
   "ping_me_about": [
     "Crypto markets",
+    "English Premier League",
     "Dev struggles"
   ]
 }
