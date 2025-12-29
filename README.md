@@ -6,12 +6,20 @@
 
 <div align="left">
 <h2 align="center">About: </h2>
-  
-   * 🌱 I’m currently learning **System's Analysis & Development** at FIAP
-
-   * 💬 Ask me about **Bitcoin, Coding... or anything**
-
-   * ⚡ Fun fact **coffee is the second most traded commodity in the world, after oil☕️**
+```json
+{
+  "user": "Student @ FIAP",
+  "interests": [
+    "Bitcoin",
+    "Code",
+    "Dark Mode"
+  ],
+  "fuel_source": "☕ Excessive Coffee",
+  "ping_me_about": [
+    "Crypto markets",
+    "Dev struggles"
+  ]
+}
 </div>
 
 <hr/>
