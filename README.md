@@ -4,7 +4,7 @@
   "interests": [
     "FinTech",
     "Code",
-    "Dark Mode"
+    "Algorithms"
   ],
   "fuel_source": [
     "Medium Roast Coffee",
