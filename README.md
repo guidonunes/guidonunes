@@ -2,7 +2,7 @@
 {
   "user": "Currently studying System's Analysis and Development @ FIAP",
   "interests": [
-    "FinTech",
+    "FinTech Businesses",
     "Code",
     "Algorithms"
   ],
@@ -16,9 +16,9 @@
     "Dev struggles"
   ],
   "tech_stack": {
-    "languages": ["Java", "Python", "JavaScript"],
-    "frameworks": ["Spring Boot", "React", "Ruby on Rails"],
-    "databases": ["Oracle", "PostgreSQL"],
+    "languages": ["Java", "Kotlin", "C#", "Python"],
+    "frameworks": ["Spring Boot", "Jetpack Compose", ".NET 8.0", "Pandas"],
+    "databases": ["Oracle", "PostgreSQL", "MySQL"],
     "tools": ["Git", "Docker"]
   }
 }
