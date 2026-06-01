@@ -17,9 +17,9 @@
   ],
   "tech_stack": {
     "languages": ["Java", "Kotlin", "C#", "Python"],
-    "frameworks": ["Spring Boot", "Jetpack Compose", ".NET 8.0", "Pandas"],
+    "frameworks": ["Spring Boot", ".NET 8.0", "Ruby On Rails"],
     "databases": ["Oracle", "PostgreSQL", "MySQL"],
-    "tools": ["Git", "Docker"]
+    "tools": ["Git", "Docker", "Jupyter Notebook"]
   }
 }
 ```
