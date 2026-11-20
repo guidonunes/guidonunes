@@ -1,6 +1,6 @@
 ```json
 {
-  "user": "Currently studying System's Analysis and Development @ FIAP",
+  "user": "Currently studying MBA in Software Engineering @ USP",
   "interests": [
     "FinTech Businesses",
     "Code",
